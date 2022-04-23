@@ -1,0 +1,12 @@
+Name: Donovan McDonough
+Project 5
+
+To compile, issue command "make".
+To run, issue command "./oss".
+To clean repository, issue command "make clean".
+
+Version control accomplished using Git and GitHub. Project can be found under uername "dmmv2r"and project "OSmcdonoug.5".
+
+Project is incomplete but is safe to run and results in no errors.
+
+NOTE: Got stuck in too many areas and was not able to complete project. Currently, the project only ceates one child, as I was in the process of figuring out how to properly make it create several child processes.
